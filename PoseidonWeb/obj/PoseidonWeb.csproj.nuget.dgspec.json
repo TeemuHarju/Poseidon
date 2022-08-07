@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miika\\source\\repos\\WebPage\\Poseidon\\PoseidonWeb\\PoseidonWeb.csproj": {}
+    "C:\\Users\\Miika\\source\\repos\\Poseidon\\PoseidonWeb\\PoseidonWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miika\\source\\repos\\WebPage\\Poseidon\\PoseidonWeb\\PoseidonWeb.csproj": {
+    "C:\\Users\\Miika\\source\\repos\\Poseidon\\PoseidonWeb\\PoseidonWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miika\\source\\repos\\WebPage\\Poseidon\\PoseidonWeb\\PoseidonWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Miika\\source\\repos\\Poseidon\\PoseidonWeb\\PoseidonWeb.csproj",
         "projectName": "PoseidonWeb",
-        "projectPath": "C:\\Users\\Miika\\source\\repos\\WebPage\\Poseidon\\PoseidonWeb\\PoseidonWeb.csproj",
+        "projectPath": "C:\\Users\\Miika\\source\\repos\\Poseidon\\PoseidonWeb\\PoseidonWeb.csproj",
         "packagesPath": "C:\\Users\\Miika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miika\\source\\repos\\WebPage\\Poseidon\\PoseidonWeb\\obj\\",
+        "outputPath": "C:\\Users\\Miika\\source\\repos\\Poseidon\\PoseidonWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miika\\AppData\\Roaming\\NuGet\\NuGet.Config",
